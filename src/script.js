@@ -45,7 +45,7 @@ const meshes = new Array();
 const fontLoader = new THREE.FontLoader();
 fontLoader.load("/fonts/helvetiker_regular.typeface.json", (font) => {
   const textGeometry = new THREE.TextBufferGeometry(
-    "Creative\nDeveloper\nBased in Paris",
+    "Nicolas\nCreative\nDeveloper\nBased in Paris",
     {
       font: font,
       size: 0.5,
