@@ -2,7 +2,7 @@
 
 I re-create what ilithya did with her cool [portfolio](https://www.ilithya.rocks/) and have a big 3D text in the middle of the scene with objects floating around.
 
-Exercice from threejs-journey(https://threejs-journey.xyz/) by [Bruno Simon](https://github.com/brunosimon) to learn [three.js](https://threejs.org/)
+Exercice from [threejs-journey](https://threejs-journey.xyz/) by [Bruno Simon](https://github.com/brunosimon) to learn [three.js](https://threejs.org/)
 
 In the project directory, you can run:
 
